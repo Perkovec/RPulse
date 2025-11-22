@@ -1,3 +1,15 @@
+# RPulse
+**RPulse** (forked from [yarr](https://github.com/nkanaev/yarr)) is a self-hosted web-based feed aggregator
+
+## Roadmap
+
+- [ ] Postgres/MySQL support
+- [ ] daily summarization
+- [ ] tags support
+- [ ] i18n
+
+----------
+# OLD README:
 # yarr
 
 **yarr** (yet another rss reader) is a web-based feed aggregator which can be used both

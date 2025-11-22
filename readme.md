@@ -7,6 +7,7 @@
 - [ ] daily summarization
 - [ ] tags support
 - [ ] i18n
+- [ ] rewrite frontend
 
 ----------
 # OLD README:

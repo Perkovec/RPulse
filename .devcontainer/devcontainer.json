@@ -1,0 +1,14 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/go:1.25-trixie",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "EditorConfig.EditorConfig"
+            ],
+            "settings": {
+                "workbench.colorTheme": "Default Dark Modern"
+            }
+        }
+    },
+    "appPort": ["8000:8000"]
+}
